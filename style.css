@@ -1,0 +1,15 @@
+h2{
+    font-style: normal;
+    color: yellowgreen;
+    size: 0ch;
+}
+p{
+    font-style: italic;
+    color: blue;
+    align-items: center;
+}
+h1{
+    font-size: x-large;
+    color: pink;
+    text-align: center;
+}
